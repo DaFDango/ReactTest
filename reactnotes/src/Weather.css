@@ -1,0 +1,15 @@
+.WeatherDiv {
+    margin: auto;
+    width: 15vw;
+    height: 10vh;
+}
+
+.InfoPanel {
+    margin: auto;
+    text-align: center;
+    padding: 1%;
+}
+
+.InfoText {
+    margin: 2px;
+}

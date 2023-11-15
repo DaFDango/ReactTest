@@ -1,0 +1,33 @@
+.NoteDiv {
+    padding: 1rem;
+    margin: 1rem;
+    background-color: rgb(243, 243, 91);
+    border-radius: 10px;
+    min-height: 10rem;
+    max-width: 500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+textarea {
+    border: none;
+    resize: none;
+    background-color: rgb(243, 243, 91);
+}
+
+textarea:focus {
+    outline: none;
+}
+
+.NoteFooter {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.saveButton {
+    border: none;
+    padding: 3px;
+    border-radius: 6px;
+}

@@ -1,0 +1,17 @@
+.AppDiv {
+  width: 5vw;
+  height: 2vh;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.AppButton {
+  margin: auto;
+  margin-bottom: 2vh;
+}
+
+.Capsule {
+  display: grid;
+  grid-gap: 1rem;
+  grid-template-columns: repeat(auto-fit, minmax(500px, 2fr));
+}
